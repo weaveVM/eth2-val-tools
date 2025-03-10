@@ -47,7 +47,7 @@ Usage:
   eth2-val-tools deposit-data [flags]
 
 Flags:
-      --amount uint                   Amount to deposit, in Gwei (default 32000000000)
+      --amount uint                   Amount to deposit, in Gwei (default 5000000000000) (NOTE: WVM!)
       --as-json-list                  If the json datas should be wrapped with brackets and separated with commas, like a json list.
       --fork-version string           Fork version, e.g. 0x11223344
   -h, --help                          help for deposit-data
